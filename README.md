@@ -7,3 +7,5 @@ Be aware that the stock symbols have to be:
 + Seperated by space (' ')
 + Existend
 + Spelled right
+
+The process might take a moment, to not burden Yahoos servers.
